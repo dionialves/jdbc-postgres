@@ -4,8 +4,16 @@ Este repositório faz parte de uma revisão que fiz sobre a conexão ao postgres
 poder consultar posteriormente. Abaixo considerações de quem criou o projeto:
 
 Professor Nélio Alves do canal DevSuperior
-[Video de referencia](https://www.youtube.com/watch?v=xC_yKw3MYX4&t=3197s)
-[Github de Referencia](https://github.com/devsuperior/jdbc-postgres)
+
+- [Video de referencia](https://www.youtube.com/watch?v=xC_yKw3MYX4&t=3197s)
+- [Github de Referencia](https://github.com/devsuperior/jdbc-postgres)
+
+## Modelo relacional
+![](https://github.com/dionialves/imagefiles/blob/main/jdbc-postgres/modelorelacional.png)
+
+## Modelo Relacional X Instancia de Objetos
+![](https://github.com/dionialves/imagefiles/blob/main/jdbc-postgres/modelorelacionaldeobjeto.png)
+
 
 ## Criação e instanciação da base de dados
 ```sql
